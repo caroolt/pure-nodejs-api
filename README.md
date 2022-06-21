@@ -3,7 +3,7 @@
 <h1 align="center">CRUD Api utilizing only NodeJS</h1>
 
 <!-- Imagem que representa o que o projeto faz-->
-![CRUD](./img/readme.png)
+![CRUD](./imgReadme/readme.png)
 
 ## Index
   1. [Descrição do Projeto](#descrição)
